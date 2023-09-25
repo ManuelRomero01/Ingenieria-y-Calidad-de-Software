@@ -1,0 +1,13 @@
+Título: Aseguramiento de Calidad de Proceso y de Producto
+
+Contenidos:
+• Conceptos generales sobre calidad.
+• Importancia de trabajar para y con Calidad. Ventajas y Desventajas.
+• Actividades relacionadas con el Aseguramiento de la Calidad del Software.
+• Principales Modelos de Calidad existentes (CMMI – SPICE – ISO).
+• Auditorias al Software: Auditorías de Proyecto y Auditorías al Grupo de Calidad.
+• Proceso de Auditorías
+• Calidad de Producto: Planificación de pruebas para el software- Niveles y tipos de
+pruebas para el software. Técnicas y herramientas para probar software.
+• Técnicas y Herramientas para la realización de revisiones técnicas del software.
+• Testing en ambientes Ágiles.
